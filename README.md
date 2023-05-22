@@ -34,8 +34,8 @@ Je mettrai bientôt en ligne les projets sur lesquels je travaille
 
 Voici quelques-uns de mes projets les plus récents :
 
+- [Task-Manager](https://github.com/ErwannRousseau/Task-Manager) : **Task-Manager** est une application de liste de tâches qui utilise Laravel pour gérer le backend (API) et JavaScript Vanilla pour le frontend.
 <!--
-- [Nom du projet 1](lien_vers_projet_1) : Une brève description du projet.
 - [Nom du projet 2](lien_vers_projet_2) : Une brève description du projet.
 - [Nom du projet 3](lien_vers_projet_3) : Une brève description du projet. -->
 
