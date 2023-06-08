@@ -36,6 +36,8 @@ Voici quelques-uns de mes projets les plus récents :
 
 - [Task-Manager](https://github.com/ErwannRousseau/Task-Manager) : **Task-Manager** est une application de liste de tâches qui utilise Laravel pour gérer le backend (API) et JavaScript Vanilla pour le frontend.
 - [Chatroom](https://github.com/ErwannRousseau/Chatroom) : **Chatroom** est une application web de messagerie instantannée, alimentée par Express pour l'API, React pour le front-end et WebSocket pour une expérience de messagerie instantanée.
+- [oRecipes](https://github.com/ErwannRousseau/oRecipes) : **oRecipes** est un projet de site web dédié aux recettes culinaires. Alimentée par Express pour l'API, React et SCSS pour le front-end pour offrir une expérience utilisateur conviviale et une gestion de connexion avec token JWT.
+
 <!--
 - [Nom du projet 2](lien_vers_projet_2) : Une brève description du projet.
 - [Nom du projet 3](lien_vers_projet_3) : Une brève description du projet. -->
