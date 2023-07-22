@@ -8,7 +8,7 @@
 
 ---
 
-- 🌱 J'apprend actuellement **React.js**
+- 🌱 J'apprend actuellement **Next.js**
 
 - 📫 Comment me contacter : **<erwannrousseau4@gmail.com>**
 
