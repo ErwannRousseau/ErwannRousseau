@@ -20,7 +20,9 @@
 
 Jeune passionné de développement web, je suis constamment à la recherche de nouveaux défis à relever. Ma rigueur et ma passion pour l'apprentissage me permettent d'approfondir mes connaissances et de rester à la pointe des technologies.
 
-J'ai eu la chance de me former au sein d'un organisme de formation [O'clock](https://oclock.io/formations/developpeur-web), où j'ai acquis une solide base en développement web. Sur mon profil GitHub je partage mes projets, mes expérimentations et mes contributions à des projets open source.
+J'ai eu la chance de me former au sein d'un organisme de formation [O'clock](https://oclock.io/formations/developpeur-web), où j'ai acquis une solide base en développement web. Sur mon profil GitHub je partage mes projets et mes expérimentations.
+
+J'ai obtenu avec succes mon titre professionnel de Développeur Web et Web Mobile, de niveau 5 👨‍🎓🌐
 
 Je suis ouvert aux opportunités de collaboration et de développement de projets web innovants. N'hésitez pas à parcourir mon profil GitHub pour en savoir plus sur mes compétences et mes réalisations.
 
