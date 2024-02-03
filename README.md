@@ -61,6 +61,7 @@ Voici quelques-uns de mes projets les plus récents :
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
 ![macOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg)
+![biome](https://img.shields.io/badge/-Biome-60A5FA?logo=biome&logoColor=white)
 
 <div align='center'>
 
