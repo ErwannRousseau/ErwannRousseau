@@ -10,25 +10,23 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h3 align="center">Développeur Web Full-Stack</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 ---
 
-- 🌱 Je continu actuellement de m'améliorer sur **Next.js**
+- 🌱 I'm currently continuing to improve my skills on **Next.js** and **Symfony**
 
-- 📫 Comment me contacter : **<erwann.rousseau@icloud.com>**
+- 📫 Contact : **<erwann.rousseau@icloud.com>**
 
-- 🤝 Connectons-nous : &nbsp;&nbsp; <a target='_blank' href="https://www.linkedin.com/in/ErwannRousseauWebDev">![Linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg)</a> <a href="https://twitter.com/erwannrousseau4" target="blank">![Twitter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg)</a>
+- 🤝 Connect : &nbsp;&nbsp; <a target='_blank' href="https://www.linkedin.com/in/ErwannRousseauWebDev">![Linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg)</a> <a href="https://twitter.com/erwannrousseau4" target="blank">![Twitter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg)</a>
 
 ## 👨‍💻 About Me
 
-Jeune passionné de développement web, je suis constamment à la recherche de nouveaux défis à relever. Ma rigueur et ma passion pour l'apprentissage me permettent d'approfondir mes connaissances et de rester à la pointe des technologies.
+Junior Full-Stack Web Developer, I love to learn and improve my skills. I'm always looking for new challenges to take on. My rigor and my passion for learning allow me to deepen my knowledge and stay at the forefront of technologies.
 
-J'ai eu la chance de me former au sein d'un organisme de formation [O'clock](https://oclock.io/formations/developpeur-web), où j'ai acquis une solide base en développement web. Sur mon profil GitHub je partage mes projets et mes expérimentations.
+I had the chance to learned web developement at [O'clock](https://oclock.io/formations/developpeur-web), where I successfully obtained certification as a **Web and Mobile Web Developer**, level 5 👨‍🎓🌐
 
-J'ai obtenu avec succes mon titre professionnel de **Développeur Web et Web Mobile**, de niveau 5 👨‍🎓🌐
-
-Je continu mes études en alternance afin d'obtenir le titre professionnel de **Concepteur Développeur d'Application**, de niveau 6 👨‍🎓🌐
+Now I'm working at a *awesome* company [KNP Labs](https://knplabs.com) as a Full-Stack Web Developer, and continuing my studies in work-study at O'clock School to obtain a second certification of **Application Developer**, level 6 👨‍🎓🌐.
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -36,16 +34,13 @@ Je continu mes études en alternance afin d'obtenir le titre professionnel de **
 
 ## 🚀 Projects
 
-Voici quelques-uns de mes projets les plus récents :
+Some of my most recent projects:
 
-- [ATMA Studio](https://studio-atma.com) : **ATMA Studio** est un site web, dévélopper avec Next.js, administrable via un CMS headless (Sanity), cela permet aux clients du site de modifier le contenu de leur site.
-- [Task-Manager](https://github.com/ErwannRousseau/Task-Manager) : **Task-Manager** est une application de liste de tâches qui utilise Laravel pour gérer le backend (API) et JavaScript Vanilla pour le frontend.
-- [Chatroom](https://github.com/ErwannRousseau/Chatroom) : **Chatroom** est une application web de messagerie instantannée, alimentée par Express pour l'API, React pour le front-end et WebSocket pour une expérience de messagerie instantanée.
-- [oRecipes](https://github.com/ErwannRousseau/oRecipes) : **oRecipes** est un projet de site web dédié aux recettes culinaires. Alimentée par Express pour l'API, React et SCSS pour le front-end pour offrir une expérience utilisateur conviviale et une gestion de connexion avec token JWT.
-
-<!--
-- [Nom du projet 2](lien_vers_projet_2) : Une brève description du projet.
-- [Nom du projet 3](lien_vers_projet_3) : Une brève description du projet. -->
+- [Portfolio](https://erwannrousseau.dev) : my personal website, developed with Next.js, TailwindCSS ans Sanity. A blog will be available soon.
+- [ATMA Studio](https://studio-atma.com) : **ATMA Studio** is a website, developed with Next.js, that can be managed via Sanity, allowing customers to modify the content of their site.
+- [Task-Manager](https://github.com/ErwannRousseau/Task-Manager) : **Task-Manager** is a to-do list application that uses Laravel to manage the backend (API) and JavaScript Vanilla for the frontend.
+- [Chatroom](https://github.com/ErwannRousseau/Chatroom) : **Chatroom** is an messaging web application powered by Express for the API, React for the front-end and WebSocket for the instant messaging experience.
+- [oRecipes](https://github.com/ErwannRousseau/oRecipes) : **oRecipes** is a website project dedicated to recipes. Powered by Express for the API, React and SCSS for the front-end to offer a user-friendly experience and connection management with JWT token.
 
 ## 🛠️ Languages et Outils
 
