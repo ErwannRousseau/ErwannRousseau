@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Erwann</h1>
+
 <div align='center'>
-<a href="https://erwannrousseau.com">
-
-![Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)
-</a>
-
+  <a align='center' href="https://erwannrousseau.dev" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" />
+  </a>
 </div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
