@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Erwann</h1>
+<h1 align="center">Hi there👋, I'm Erwann</h1>
 
 <div align='center'>
   <a align='center' href="https://erwannrousseau.dev" target="_blank">
@@ -22,25 +22,20 @@
 
 ## 👨‍💻 About Me
 
-Junior Full-Stack Web Developer, I love to learn and improve my skills. I'm always looking for new challenges to take on. My rigor and my passion for learning allow me to deepen my knowledge and stay at the forefront of technologies.
+Passionate Full-Stack Web Developer, love learning and tackling new challenges. My rigor and curiosity keep me at the forefront of web technologies.
 
-I had the chance to learned web developement at [O'clock](https://oclock.io/formations/developpeur-web), where I successfully obtained certification as a **Web and Mobile Web Developer**, level 5 👨‍🎓🌐
-
-Now I'm working at a *awesome* company [KNP Labs](https://knplabs.com) as a Full-Stack Web Developer, and continuing my studies in work-study at O'clock School to obtain a second certification of **Application Developer**, level 6 👨‍🎓🌐.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+I earned my **Web and Mobile Web Developer** certification from [O'clock](https://oclock.io/formations/developpeur-web) 👨‍🎓🌐 and currently work at the **_amazing_** [KNP Labs](https://knplabs.com) as a Full-Stack Web Developer. Alongside my role, I’m pursuing a second certification as an **Application Developer** through a work-study program at O'clock School.
 
 ## 🚀 Projects
 
 Some of my most recent projects:
 
-- [Portfolio](https://erwannrousseau.dev) : my personal website, developed with Next.js, TailwindCSS ans Sanity. A blog will be available soon.
-- [ATMA Studio](https://studio-atma.com) : **ATMA Studio** is a website, developed with Next.js, that can be managed via Sanity, allowing customers to modify the content of their site.
-- [Task-Manager](https://github.com/ErwannRousseau/Task-Manager) : **Task-Manager** is a to-do list application that uses Laravel to manage the backend (API) and JavaScript Vanilla for the frontend.
-- [Chatroom](https://github.com/ErwannRousseau/Chatroom) : **Chatroom** is an messaging web application powered by Express for the API, React for the front-end and WebSocket for the instant messaging experience.
-- [oRecipes](https://github.com/ErwannRousseau/oRecipes) : **oRecipes** is a website project dedicated to recipes. Powered by Express for the API, React and SCSS for the front-end to offer a user-friendly experience and connection management with JWT token.
+- [Portfolio](https://erwannrousseau.dev) : my personal website and blog, developed with Next.js, TailwindCSS ans Sanity.
+- [Biome Config CLI](https://github.com/ErwannRousseau/biome-config) : Tool for quick installation and updating of Biome.js
+- [ATMA Studio](https://studio-atma.com) : website, developed with Next.js, that can be managed via Sanity, allowing customers to modify the content of their site.
+- [Task-Manager](https://github.com/ErwannRousseau/Task-Manager) : to-do list application that uses Laravel and JavaScript Vanilla for the frontend.
+- [Chatroom](https://github.com/ErwannRousseau/Chatroom) : messaging web application powered by Express, React for the front-end and WebSocket for the instant messaging experience.
+- [oRecipes](https://github.com/ErwannRousseau/oRecipes) : website dedicated to recipes. Powered by Express, React, SCSS and connection management with JWT token.
 
 ## 🛠️ Languages et Outils
 
@@ -50,13 +45,15 @@ Some of my most recent projects:
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
 ![Next.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
+![Nest.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
 ![PHP](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg)
+![Symfony](https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg)
 ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+![GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql2.svg)
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
-![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-![macOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg)
-![biome](https://img.shields.io/badge/-Biome-60A5FA?logo=biome&logoColor=white)
+![macOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg)
 
 <div align='center'>
 
