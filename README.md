@@ -1,16 +1,13 @@
 <h1 align="center">Hi there👋, I'm Erwann</h1>
 
+<h3 align="center">Full-Stack Web Developer</h3>
+
 <div align='center'>
   <a align='center' href="https://erwannrousseau.dev" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-<h3 align="center">Full-Stack Web Developer</h3>
 
 ---
 
