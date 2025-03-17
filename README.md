@@ -10,12 +10,9 @@
 
 
 ---
+🤝 Connect : &nbsp;&nbsp; <a target='_blank' href="https://www.linkedin.com/in/ErwannRousseauWebDev">![Linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg)</a> <a href="https://twitter.com/erwannrousseau4" target="blank">![Twitter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg)</a>
 
-- 🌱 I'm currently continuing to improve my skills on **Next.js** and **Symfony**
-
-- 📫 Contact : **<erwann.rousseau@icloud.com>**
-
-- 🤝 Connect : &nbsp;&nbsp; <a target='_blank' href="https://www.linkedin.com/in/ErwannRousseauWebDev">![Linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg)</a> <a href="https://twitter.com/erwannrousseau4" target="blank">![Twitter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg)</a>
+📫 Contact : **<erwann.rousseau@icloud.com>**
 
 ## 👨‍💻 About Me
 
